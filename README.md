@@ -19,8 +19,9 @@ The code is written in Julia and requires the [JuMP](https://jump.dev) optimizat
 ## Description of the Files
 
 - **opt_step_sizes_memoryless_algo_Holder.jl**  
-  code for PEP and design procesure of memoryless first-order methods over Holder smooth convex functions 
+Code for a PEP framework and a design procedure for memoryless first-order methods over Hölder-smooth convex functions.
 
 -  **opt_step_sizes_full_algo_Holder.jl**   
-   code for PEP and design procesure of full first-order methods over Holder smooth convex functions 
+   Code for a PEP framework and a design procedure for full first-order methods over Hölder-smooth convex functions.
+
 
