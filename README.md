@@ -1,6 +1,6 @@
 # Performance estimation and design of first-order methods over Holder smooth convex functions
 
-This repository contains code for a convex Performance Estimation Problems (PEP) framework for the analysis of first-order methods over Holder smooth convex functions and for a numerical method for the optimization of the setp-sizes of these algorithms
+This repository contains the implementation of a convex PEP framework for the analysis of first-order methods on Hölder-smooth convex functions, together with a numerical scheme for optimizing the step sizes of these algorithms.
 
 ---
 
